@@ -22,6 +22,8 @@ These Mark duplicates are then converted to Build BAM Index using Picard , then 
 
 Then this BAM is converted to VCF file by variant calling
 
+
+##script
 #!/bin/bash
 echo "hi welcome to cam pipeline"
 #ref gives the  command which is used to download the reference genome
